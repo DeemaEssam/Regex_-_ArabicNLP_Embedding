@@ -1,0 +1,1 @@
+# Regex_-_ArabicNLP_Embedding
